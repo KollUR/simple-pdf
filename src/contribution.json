@@ -1,0 +1,12 @@
+{
+  "applicationNodes": [
+    {
+      "translationPath": "assets/i18n/",
+      "behaviorURI": "document-view.worker.js",
+      "presenterURI": "main.js",
+      "componentTagName": "sko-inc-simple-pdf-document-view"
+    }
+  ],
+  "programNodes": [],
+  "smartSkills": []
+}

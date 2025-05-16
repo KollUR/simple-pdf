@@ -1,0 +1,10 @@
+{
+  "application": {
+    "nodes": {
+      "sko-inc-simple-pdf-document-view": {
+        "title": "Document View",
+        "supportiveText": "Document View - Supportive Text"
+      }
+    }
+  }
+}

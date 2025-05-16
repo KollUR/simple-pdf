@@ -1,0 +1,10 @@
+metadata:
+  vendorID: "sko-inc"
+  urcapID: "simple-pdf"
+  vendorName: "Sko Inc"
+  urcapName: "Simple pdf"
+  version: 1.0.0
+artifacts:
+  webArchives:
+  - id: "simple-pdf"
+    folder: "simple-pdf"
